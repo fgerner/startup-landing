@@ -24,6 +24,10 @@ hr {
   height: 10rem;
 }
 
+.row{
+  flex: auto;
+}
+
 .btn {
   font-weight: 700;
   border-radius: 300px;
